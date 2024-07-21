@@ -69,3 +69,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # todo-app
+
+### Deployment Details:
+
+This release includes the deployment of the latest version of our React project. Here are the key changes:
+
+- Updated dependencies to latest versions.
+- Optimized build for production deployment.
+- Fixed several UI bugs reported by users.
+
+### Instructions for Deployment:
+
+To deploy this release:
+1. Download the attached build files (`build.zip`).
+2. Extract the contents to your web server or hosting service.
+3. Ensure all dependencies are correctly configured (such as API endpoints, environment variables, etc.).
+4. Test the deployment thoroughly before making it live.
+
+If you encounter any issues during deployment, please refer to our documentation or contact our support team for assistance.
+
